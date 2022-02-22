@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+### :sparkles: My favourite things :sparkles: 
+
+* Donuts
+* Stardew Valley
+* Dogs
